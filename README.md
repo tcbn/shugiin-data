@@ -1,4 +1,5 @@
 # shugiin-data
+Collected by https://github.com/tcbn/shugiin-data-collector
 
 ## 衆議院議案Data.json
 
